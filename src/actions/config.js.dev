@@ -1,0 +1,1 @@
+export const configUrl = 'http://64.62.250.110:8080/BkiApi/';

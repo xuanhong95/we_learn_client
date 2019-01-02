@@ -1,0 +1,51 @@
+.demo-wrapper {
+    border: 1px solid #80808038;
+}
+.rdw-editor-toolbar {
+    background: #8080802e!important;
+}
+.demo-editor.rdw-editor-main {
+    padding: 0px 5px;
+    min-height: 500px;
+}
+.demo-editor.rdw-editor-main.comment-box{
+    min-height: 100px;
+}
+.demo-editor-qa.rdw-editor-main {
+    padding: 0px 5px;
+    min-height: 300px;
+}
+.demo-editor-qa.rdw-editor-main.comment-box{
+    min-height: 100px;
+}
+.cmt-box{
+    margin-top: 10px;
+    border: 1px solid #80808038;
+    display: table;
+}
+.cmt-box.col-md-12{
+    padding: 0px
+}
+.cmt-user{
+    display: flex;
+}
+.user-information{
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.cmt-user-avatar.col-md-12{
+    padding: 5px 0px;
+}
+.cmt-user-info.col-md-2{
+    padding: 15px;
+    text-align: center;
+    border-right: 1px dashed gray;
+}
+.cmt-user-content.col-md-10{
+    position:relative;
+}
+.cmt-user-content.col-md-10 > a {
+    position:absolute;
+    bottom:5px;
+    right:12px;
+}

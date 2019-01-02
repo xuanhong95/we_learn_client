@@ -1,0 +1,1 @@
+export const configUrl = 'http://117.6.64.121:8080/BkiApiUat/';

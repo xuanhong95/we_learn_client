@@ -1,0 +1,8 @@
+syntax: glob
+build/*
+dist/*
+node_modules/*
+.DS_Store
+src/actions/config.js
+dump.rdb
+yarn-error.log
